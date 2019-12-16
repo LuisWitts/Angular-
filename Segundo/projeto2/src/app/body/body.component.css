@@ -1,0 +1,11 @@
+.carousel-inner{
+   
+    
+    width: 1000px;
+    height: 800px;
+}
+.divisao{
+    display: flex;
+    justify-content: center;
+}
+
